@@ -1,0 +1,140 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 苑洛志樂
+#+DATE: 2018-03-24 09:40:51.011679
+#+PROPERTY: ID KR1i0007
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 10
+<pb:KR1i0007_WYG_010-1a>¶
+　　欽定四庫全書¶
+¶
+　　苑洛志樂卷十三¶
+¶
+　　明　韓邦竒　撰¶
+¶
+　　廟享　春夏𤣥衣秋冬黄衣餘同圜丘¶
+¶
+　　祖宗之樂决不可奏於子孫之廟豈可以子孫坐於¶
+上而呈祖宗之形容哉子孫有功德者宜别為樂子¶
+孫之樂則可奏之祖宗之前以慰悦祖宗之心　舞¶
+容不必拘拘於古各象其成功可也¶
+¶
+<pb:KR1i0007_WYG_010-1b>¶
+　　舞一音而兩奏再振其容甚雅觀¶
+¶
+　　文武異容則文八佾武八佾初獻武亞獻文更出可¶
+也¶
+¶
+　　降神　　　同圜丘¶
+¶
+¶
+¶
+¶
+<pb:KR1i0007_WYG_010-2a>¶
+<pb:KR1i0007_WYG_010-2b>¶
+<pb:KR1i0007_WYG_010-3a>¶
+<pb:KR1i0007_WYG_010-3b>¶
+<pb:KR1i0007_WYG_010-4a>¶
+<pb:KR1i0007_WYG_010-4b>¶
+<pb:KR1i0007_WYG_010-5a>¶
+<pb:KR1i0007_WYG_010-5b>¶
+<pb:KR1i0007_WYG_010-6a>¶
+<pb:KR1i0007_WYG_010-6b>¶
+<pb:KR1i0007_WYG_010-7a>¶
+<pb:KR1i0007_WYG_010-7b>¶
+<pb:KR1i0007_WYG_010-8a>¶
+<pb:KR1i0007_WYG_010-8b>¶
+<pb:KR1i0007_WYG_010-9a>¶
+<pb:KR1i0007_WYG_010-9b>¶
+<pb:KR1i0007_WYG_010-10a>¶
+<pb:KR1i0007_WYG_010-10b>¶
+<pb:KR1i0007_WYG_010-11a>¶
+<pb:KR1i0007_WYG_010-11b>¶
+<pb:KR1i0007_WYG_010-12a>¶
+<pb:KR1i0007_WYG_010-12b>¶
+<pb:KR1i0007_WYG_010-13a>¶
+<pb:KR1i0007_WYG_010-13b>¶
+<pb:KR1i0007_WYG_010-14a>¶
+<pb:KR1i0007_WYG_010-14b>¶
+<pb:KR1i0007_WYG_010-15a>¶
+<pb:KR1i0007_WYG_010-15b>¶
+<pb:KR1i0007_WYG_010-16a>¶
+<pb:KR1i0007_WYG_010-16b>¶
+<pb:KR1i0007_WYG_010-17a>¶
+<pb:KR1i0007_WYG_010-17b>¶
+<pb:KR1i0007_WYG_010-18a>¶
+<pb:KR1i0007_WYG_010-18b>¶
+<pb:KR1i0007_WYG_010-19a>¶
+<pb:KR1i0007_WYG_010-19b>¶
+<pb:KR1i0007_WYG_010-20a>¶
+<pb:KR1i0007_WYG_010-20b>¶
+<pb:KR1i0007_WYG_010-21a>¶
+<pb:KR1i0007_WYG_010-21b>¶
+<pb:KR1i0007_WYG_010-22a>¶
+<pb:KR1i0007_WYG_010-22b>¶
+<pb:KR1i0007_WYG_010-23a>¶
+<pb:KR1i0007_WYG_010-23b>¶
+<pb:KR1i0007_WYG_010-24a>¶
+<pb:KR1i0007_WYG_010-24b>¶
+<pb:KR1i0007_WYG_010-25a>¶
+<pb:KR1i0007_WYG_010-25b>¶
+<pb:KR1i0007_WYG_010-26a>¶
+<pb:KR1i0007_WYG_010-26b>¶
+<pb:KR1i0007_WYG_010-27a>¶
+<pb:KR1i0007_WYG_010-27b>¶
+<pb:KR1i0007_WYG_010-28a>¶
+<pb:KR1i0007_WYG_010-28b>¶
+<pb:KR1i0007_WYG_010-29a>¶
+<pb:KR1i0007_WYG_010-29b>¶
+<pb:KR1i0007_WYG_010-30a>¶
+<pb:KR1i0007_WYG_010-30b>¶
+<pb:KR1i0007_WYG_010-31a>¶
+<pb:KR1i0007_WYG_010-31b>¶
+<pb:KR1i0007_WYG_010-32a>¶
+<pb:KR1i0007_WYG_010-32b>¶
+<pb:KR1i0007_WYG_010-33a>¶
+<pb:KR1i0007_WYG_010-33b>¶
+<pb:KR1i0007_WYG_010-34a>¶
+<pb:KR1i0007_WYG_010-34b>¶
+<pb:KR1i0007_WYG_010-35a>¶
+<pb:KR1i0007_WYG_010-35b>¶
+<pb:KR1i0007_WYG_010-36a>¶
+<pb:KR1i0007_WYG_010-36b>¶
+<pb:KR1i0007_WYG_010-37a>¶
+<pb:KR1i0007_WYG_010-37b>¶
+<pb:KR1i0007_WYG_010-38a>¶
+<pb:KR1i0007_WYG_010-38b>¶
+<pb:KR1i0007_WYG_010-39a>¶
+<pb:KR1i0007_WYG_010-39b>¶
+<pb:KR1i0007_WYG_010-40a>¶
+<pb:KR1i0007_WYG_010-40b>¶
+<pb:KR1i0007_WYG_010-41a>¶
+<pb:KR1i0007_WYG_010-41b>¶
+<pb:KR1i0007_WYG_010-42a>¶
+<pb:KR1i0007_WYG_010-42b>¶
+<pb:KR1i0007_WYG_010-43a>¶
+<pb:KR1i0007_WYG_010-43b>¶
+<pb:KR1i0007_WYG_010-44a>¶
+<pb:KR1i0007_WYG_010-44b>¶
+<pb:KR1i0007_WYG_010-45a>¶
+<pb:KR1i0007_WYG_010-45b>¶
+<pb:KR1i0007_WYG_010-46a>¶
+<pb:KR1i0007_WYG_010-46b>¶
+<pb:KR1i0007_WYG_010-47a>¶
+<pb:KR1i0007_WYG_010-47b>¶
+<pb:KR1i0007_WYG_010-48a>¶
+<pb:KR1i0007_WYG_010-48b>¶
+<pb:KR1i0007_WYG_010-49a>¶
+<pb:KR1i0007_WYG_010-49b>¶
+<pb:KR1i0007_WYG_010-50a>¶
+<pb:KR1i0007_WYG_010-50b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+　　苑洛志樂卷十三¶
+¶
