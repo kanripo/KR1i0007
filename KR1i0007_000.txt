@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 苑洛志樂
-#+DATE: 2018-03-24 09:40:51.080824
-#+PROPERTY: ID KR1i0007
-#+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 0
